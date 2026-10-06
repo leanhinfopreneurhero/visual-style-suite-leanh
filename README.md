@@ -32,6 +32,20 @@ Most visual analysis stops at *“warm colors, cinematic lighting, minimal compo
 
 ---
 
+## Featured example · Mộc đương đại
+
+[![Mộc đương đại — dấu ấn Việt, final packaging](examples/moc-duong-dai-dau-an-viet/images/final-packaging.png)](examples/moc-duong-dai-dau-an-viet/README.md)
+
+See the full workflow applied to a contemporary Vietnamese handicraft brand: a nine-layer Visual DNA, 60/30/10 palette, 3×3 moodboard, product and artisan imagery, reusable prompts, and a finished packaging system.
+
+<div align="center">
+
+### [Explore the complete case study →](examples/moc-duong-dai-dau-an-viet/README.md)
+
+</div>
+
+---
+
 <a id="choose-your-workflow"></a>
 
 ## Choose your workflow
@@ -301,6 +315,15 @@ visual-style-suite/
 ├── SKILL.md
 ├── assets/
 │   └── visual-style-suite-banner.svg
+├── examples/
+│   └── moc-duong-dai-dau-an-viet/
+│       ├── README.md
+│       ├── prompts.md
+│       └── images/
+│           ├── moodboard-3x3.png
+│           ├── hero-product.png
+│           ├── artisan-process.png
+│           └── final-packaging.png
 └── references/
     ├── dna-framework.md
     ├── prompt-recipes.md
@@ -310,6 +333,7 @@ visual-style-suite/
 | File | Purpose |
 |---|---|
 | [`SKILL.md`](SKILL.md) | Trigger rules, mode selection, workflows, outputs, and global safeguards |
+| [`examples/moc-duong-dai-dau-an-viet/`](examples/moc-duong-dai-dau-an-viet/README.md) | Complete Vietnamese handicraft case study, generated imagery, final packaging, and reusable prompts |
 | [`references/dna-framework.md`](references/dna-framework.md) | Precise vocabulary and the complete nine-layer analysis system |
 | [`references/prompt-recipes.md`](references/prompt-recipes.md) | Midjourney and model-agnostic prompt construction patterns |
 | [`references/style-guide-template.md`](references/style-guide-template.md) | Reusable structure for EXTRACT-mode Style DNA documents |
